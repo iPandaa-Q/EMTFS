@@ -1,0 +1,12 @@
+# 版权与个人文档（不上传）
+*.pdf
+*.docx
+*.pptx
+*.zip
+
+# 诊断脚本目录（复现排查过程的内部记录）
+repro_diag/
+
+# Python
+__pycache__/
+*.pyc
